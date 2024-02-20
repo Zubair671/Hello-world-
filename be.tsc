@@ -1,0 +1,6 @@
+// let a="zubair"
+// let b="panhwer"
+// d=b.toLowerCase;
+// c=a.toUpperCase;
+// console.log(c+d)
+console.log("hello oworld ")
